@@ -1,0 +1,11 @@
+{
+	"name": "cakephp-local/ci",
+	"type": "project",
+	"config": {
+		"vendor-dir": "Vendor"
+	},
+	"require": {
+		"cakephp/cakephp": "2.10.*",
+		"josegonzalez/cakephp-environments": "1.0.0"
+	}
+}
